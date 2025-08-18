@@ -4,12 +4,11 @@
 import { Profile } from "@/components/Profile";
 
 export default function Home() {
-  return ( <div > 
-    <h1> oi </h1>
-    <Profile/>
-    <Profile/>
-    
-      
-  </div>
+  return (
+    <div>
+      <h1> oi </h1>
+      <Profile />
+      <Profile />
+    </div>
   );
 }
