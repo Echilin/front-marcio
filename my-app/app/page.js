@@ -8,7 +8,6 @@ export default function Home() {
     <div>
       <h1> oi </h1>
       <Profile />
-      <Profile />
     </div>
   );
 }
